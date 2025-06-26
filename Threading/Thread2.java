@@ -17,7 +17,7 @@ public class Thread2 extends Thread {
         Thread2 t2 = new Thread2();
         t2.start();
         t2.join();
-        System.out.println("Thread has finished execution.");
+        System.out.println("Thread has been completed.");
         
     }
     
